@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "My weather app for ALC",
+  "main": "script.js",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "lite-server",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonagnon/weather-app.git"
+  },
+  "author": "Sonagnon Denise Ghislaine AMOUSSOU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonagnon/weather-app/issues"
+  },
+  "homepage": "https://github.com/Sonagnon/weather-app#readme"
+}
